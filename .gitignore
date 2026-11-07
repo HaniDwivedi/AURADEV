@@ -1,0 +1,10 @@
+dist/
+build/
+*.spec
+*.zip
+*.exe
+*.apk
+__pycache__/
+*.pyc
+*.db
+*.sqlite
