@@ -59,6 +59,7 @@ Launch the dashboard via Streamlit:
 
 Bash
 streamlit run main.py
+```
 📋 Version Updates & Changelog
 All notable updates to this project are documented below.
 
@@ -71,19 +72,3 @@ Memory Safeguards: Added real-time RAM availability checks (check_ram_availabili
 
 Git & Repository Maintenance: Cleaned up project tracking, excluded local SQLite database files, build caches, and __pycache__ directories via .gitignore.
 
-🛡️ License
-Distributed under the MIT License. See LICENSE for more information.
-
-How to update your README.md in VS Code:
-Open your existing README.md file in the VS Code editor.
-
-Select all (Ctrl + A) and replace it completely with the markdown code block provided above.
-
-Save the file (Ctrl + S).
-
-Run these quick commands in your terminal to push the updated documentation to GitHub:
-
-PowerShell
-git add README.md
-git commit -m "Enhance README with clear usage guide and version history"
-git push origin main
